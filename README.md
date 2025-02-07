@@ -1,5 +1,14 @@
 # Project 2: More Data, More Visualizations
 
+### Assignment links:
+* Kindly see Karamoja food security dashboard link attached: https://public.tableau.com/shared/XGMTY4GGC?:display_count=n&:origin=viz_share_link
+
+
+* Kindly find slides presentation link on Karamoja food security attached: https://docs.google.com/presentation/d/1k5q8AL1Z1hNwQHH4I6mR8lXHzVN-d0LjqAGZ9QhFwik/edit?usp=sharing
+
+* Also find attached the link to my analysis on Jupyter notebook: https://github.com/Justine-js/dsc-dvp-project02/blob/main/index.ipynb
+
+### Assignment Instructions: 
 For this project, the students will:
 * find a data set of their choosing
 * get approval from the instructor to use that data set
