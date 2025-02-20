@@ -9,7 +9,7 @@
 * Also find attached the link to my analysis on Jupyter notebook: https://github.com/Justine-js/dsc-dvp-project02/blob/main/index.ipynb
 
 ### Assignment Instructions: 
-For this project, the students will:
+For this project, the students will;
 * find a data set of their choosing
 * get approval from the instructor to use that data set
 * upon approval, find another (related) data set
